@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Sou [Seu Nome], desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web e mobile.  
+Sou Jonathas Magalhães, desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web e mobile.  
 Atualmente atuo como **Desenvolvedor Pleno** na **Zup Innovation**, contribuindo em projetos estratégicos para o **Itaú Unibanco**.  
 
 ## 🛠️ Expertise  
