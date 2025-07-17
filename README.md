@@ -1,9 +1,9 @@
 ## Hello there 👋
 
+![](https://komarev.com/ghpvc/?username=j0nzera&color=blueviolet)
+
 Sou Jonathas Magalhães, desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web e mobile.  
 Atualmente atuo como **Desenvolvedor Pleno** na **Zup Innovation**, contribuindo em projetos estratégicos para o **Itaú Unibanco**.  
-
-![](https://komarev.com/ghpvc/?username=j0nzera&color=blueviolet)
 
 ## 🛠️ Expertise  
 
