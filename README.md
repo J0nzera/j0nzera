@@ -3,6 +3,8 @@
 Sou Jonathas Magalhães, desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web e mobile.  
 Atualmente atuo como **Desenvolvedor Pleno** na **Zup Innovation**, contribuindo em projetos estratégicos para o **Itaú Unibanco**.  
 
+! [] ( https : //komarev.com/ghpvc/?username=seu_nome_de_usuário&color=dê_sua_cor)
+
 ## 🛠️ Expertise  
 
 Especialista em **Angular** (desde a versão 8 até as mais recentes), desenvolvendo soluções robustas para **aplicações web** e **mobile (via WebView)**.  
